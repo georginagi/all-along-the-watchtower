@@ -1,6 +1,6 @@
-# Requires Python 3.0+
 
-# import abstract base class functionality
+
+# Ιmport abstract base class functionality
 from abc import ABCMeta, abstractmethod
 
 #
